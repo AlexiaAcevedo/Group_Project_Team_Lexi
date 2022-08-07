@@ -13,7 +13,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Group Project Team Lexi</h3>
+<h3 align="center">Stock Tracker</h3>
 
   <p align="center">
     Application to help you research and save your favorite stocks. API pulls in current stock information and you rank your top stocks accordingly.
