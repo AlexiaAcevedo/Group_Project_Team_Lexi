@@ -57,7 +57,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Home Page Screenshot](documentation_images\cover.png?raw=true "Home Screenshot")
+![pic5](https://user-images.githubusercontent.com/98661499/189997227-8a7c510a-1da3-42cf-8dd3-8c50f1ad4127.PNG)
+
 
 Application to help you research and save your favorite stocks. API pulls in current stock information and you rank your top stocks accordingly.
 
@@ -99,6 +100,19 @@ To get a local copy up and running follow these simple example steps.
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Screenshots
+
+![pic1](https://user-images.githubusercontent.com/98661499/189996849-0014492a-4d80-4300-857b-519572516b24.PNG)
+
+
+![pic2](https://user-images.githubusercontent.com/98661499/189997024-7e9a76e5-bb35-48ee-a799-137cb5390f95.PNG)
+
+
+![pic3](https://user-images.githubusercontent.com/98661499/189997066-35efdb12-e980-4cd7-9dc3-21f40a8686ae.PNG)
+
+
+![pic4](https://user-images.githubusercontent.com/98661499/189997184-db58defb-97f3-46c2-b7c1-884e3203db77.PNG)
 
 
 
